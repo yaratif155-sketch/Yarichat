@@ -35,7 +35,7 @@
 
 <section>
     <h2>Contact Us</h2>
-    <p>Email: support@yarichat.in</p>
+    <p>Email: support@yaratif.155@gmail.com</p>
 </section>
 
 <footer>
